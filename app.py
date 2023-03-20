@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 import os
-
+# new thing
 app = Flask(__name__)
 
 # 配置上传文件的存储路径
